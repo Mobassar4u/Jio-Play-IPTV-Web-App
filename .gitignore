@@ -1,0 +1,7 @@
+node_modules
+.env
+*.jiotv
+*.db
+*.code-workspace
+# to save bandwith by using cloudflare's bandwith
+cloudflare-Worker.js  
