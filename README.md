@@ -37,7 +37,7 @@ curl https://cdn.discordapp.com/attachments/1072165096656220170/1078659339860049
 ```
 download start script
 ```bash
-curl -o start.sh https://github.com/Mobassar4u/Jio-Play-IPTV-Web-App.git/start.sh && sh start.sh
+curl -o start.sh https://raw.githubusercontent.com/Mobassar4u/Jio-Play-IPTV-Web-App/main/start.sh && sh start.sh
 ```
 if you face any error while download from github you can use discord link
 ```bash
