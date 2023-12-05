@@ -1,3 +1,5 @@
+<p align="center"><img src="https://www.tataplay.com/s3-api/v1/assets/others/intro-image-desktop.png" ></p>
+
 # J-TV self server
 
 ## Introduction
